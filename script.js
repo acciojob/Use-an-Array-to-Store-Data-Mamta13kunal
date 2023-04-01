@@ -1,3 +1,1 @@
-
-let yourArray = ['string', 123, true, null, undefined];
-console.log(yourArray.length);
+let yourArray = ['apple', 3, true, undefined,'banana', 7];
